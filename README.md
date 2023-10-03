@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hello, I'm Daryl Agustin
-- 🔭 I’m currently learning Web and Mobile Development
+- 🔭 I'm into Web and Mobile Development
+- 🍎 I have published apps on the AppStore
 - 📫 You can reach me @ __[LinkedIn]( https://www.linkedin.com/in/daryl-paul-agustin-692140200/)__
 
 <!--
